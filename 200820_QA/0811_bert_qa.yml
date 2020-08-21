@@ -1,4 +1,4 @@
-name: 0811_qa
+name: 0824_q10_0811_qa
 channels:
   - conda-forge
   - defaults
